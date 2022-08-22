@@ -1,0 +1,51 @@
+html {
+    background: #4915f8;
+}
+
+body {
+    background: #4915f8;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    width: 900px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: auto; 
+    margin-right: auto
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #FFFFFF;
+    font-weight: 500;
+    line-height: .5;
+}
+
+
+a {
+    color: #FFFFFF;
+}
+
+.container1 {
+    position: relative; 
+    width: 900px; 
+    height: 200px
+}
+
+.button1 {
+    background-image: linear-gradient(to right, #faa21b , #ff7800); 
+    color:#ffffff; 
+    border: none; 
+    border-radius: 20px; 
+    height: 40px; 
+    padding: 0px 20px 0px 20px;
+}
+
+.button2 {
+    background-image: linear-gradient(to right, #faa21b , #ff7800); 
+    color:#ffffff; 
+    border: none; 
+    border-radius: 30px; 
+    height: 50px; 
+    padding: 10px 40px 10px 40px;
+}
